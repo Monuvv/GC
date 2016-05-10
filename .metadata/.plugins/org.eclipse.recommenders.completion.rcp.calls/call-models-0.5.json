@@ -1,0 +1,17 @@
+{
+  "C:\\Users\\valuecheck\\AppData\\Local\\Android\\sdk\\platforms\\android-23\\android.jar": {
+    "location": "C:\\Users\\valuecheck\\AppData\\Local\\Android\\sdk\\platforms\\android-23\\android.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\valuecheck\\AppData\\Local\\Android\\sdk\\platforms\\android-23\\android.jar\u0027. Neither fingerprint \u0027b113bd230b928d8fbd535c1522ac52c6d639decc\u0027 nor symbolic name \u0027android\u0027 are known."
+  },
+  "D:\\GC\\platforms\\android\\CordovaLib\\bin\\cordovalib.jar": {
+    "location": "D:\\GC\\platforms\\android\\CordovaLib\\bin\\cordovalib.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027D:\\GC\\platforms\\android\\CordovaLib\\bin\\cordovalib.jar\u0027. Neither fingerprint \u00271637d8a70726ac6e5f1c1d6811e24fdc4248d47b\u0027 nor symbolic name \u0027cordovalib\u0027 are known."
+  },
+  "D:\\GC\\platforms\\android\\src": {
+    "location": "D:\\GC\\platforms\\android\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027D:\\GC\\platforms\\android\\src\u0027. Skipped."
+  }
+}
